@@ -1,5 +1,6 @@
 Tech stack:
 - npm
+- mui
 - vite
 - typescript
 - zustand
