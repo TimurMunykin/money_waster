@@ -1,4 +1,5 @@
 Simple but important and MUST rules:
+- use context7 for documentation if you struggle with something
 - If doing something with databse, don't forget to create migrations
 - use SOLID, DRY, KISS, YAGNI principles
 - do at least changes as possible
@@ -6,7 +7,7 @@ Simple but important and MUST rules:
 - create as much custom hooks as needed
 - use functional components
 - use TypeScript
-- don't use `any` type 
+- don't use `any` type
 - don't comment code
 - don't handle exceptions
 - don't write consol.log
